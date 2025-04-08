@@ -9,3 +9,6 @@
 
 [infix to postfix](infix_to_postfix.py)
 
+[implementation queue using array](implementation_of_queue_using_array.py)
+
+
